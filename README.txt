@@ -1,0 +1,1 @@
+This is a collection of small projects written with python. They're milestone projects from python tutorials.
