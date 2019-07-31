@@ -1,1 +1,1 @@
-This is a collection of small projects written with python. They're milestone projects from python tutorials.
+This is a collection of small projects written with python. Trying my best to get better and smarter every day!
